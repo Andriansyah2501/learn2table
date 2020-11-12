@@ -1,0 +1,10 @@
+C:\Users\ian\OneDrive - Yayasan Vitka\PROJECT VISUAL BASIC IAN\pertemuan7\pertemuan7\bin\Debug\pertemuan7.exe
+C:\Users\ian\OneDrive - Yayasan Vitka\PROJECT VISUAL BASIC IAN\pertemuan7\pertemuan7\bin\Debug\pertemuan7.pdb
+C:\Users\ian\OneDrive - Yayasan Vitka\PROJECT VISUAL BASIC IAN\pertemuan7\pertemuan7\bin\Debug\pertemuan7.xml
+C:\Users\ian\OneDrive - Yayasan Vitka\PROJECT VISUAL BASIC IAN\pertemuan7\pertemuan7\obj\x86\Debug\pertemuan7.Form1.resources
+C:\Users\ian\OneDrive - Yayasan Vitka\PROJECT VISUAL BASIC IAN\pertemuan7\pertemuan7\obj\x86\Debug\pertemuan7.Resources.resources
+C:\Users\ian\OneDrive - Yayasan Vitka\PROJECT VISUAL BASIC IAN\pertemuan7\pertemuan7\obj\x86\Debug\pertemuan7.vbproj.GenerateResource.Cache
+C:\Users\ian\OneDrive - Yayasan Vitka\PROJECT VISUAL BASIC IAN\pertemuan7\pertemuan7\obj\x86\Debug\pertemuan7.exe
+C:\Users\ian\OneDrive - Yayasan Vitka\PROJECT VISUAL BASIC IAN\pertemuan7\pertemuan7\obj\x86\Debug\pertemuan7.xml
+C:\Users\ian\OneDrive - Yayasan Vitka\PROJECT VISUAL BASIC IAN\pertemuan7\pertemuan7\obj\x86\Debug\pertemuan7.pdb
+C:\Users\ian\OneDrive - Yayasan Vitka\PROJECT VISUAL BASIC IAN\pertemuan7\pertemuan7\obj\x86\Debug\pertemuan7.Form2.resources
